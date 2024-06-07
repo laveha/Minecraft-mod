@@ -1,0 +1,11 @@
+{
+  "item.mptmod.car": "Машина",
+  "item.mptmod.piston": "Поршень",
+  "itemGroup.VAS2107": "ВАЗ 2107",
+  "item.mptmod.engine": "Двигатель",
+  "item.mptmod.shaft": "Коленвал",
+  "block.mptmod.tile_block": "Плитка",
+  "block.mptmod.box_block": "Ящик",
+  "block.mptmod.ruber_block": "Резина",
+  "block.mptmod.toner_block": "Тонер"
+}

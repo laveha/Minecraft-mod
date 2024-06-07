@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mptmod:shaft"
+    },
+    {
+      "item": "mptmod:engine"
+    },
+    {
+      "item": "mptmod:piston"
+    }
+  ],
+  "result": {
+    "item": "mptmod:car"
+  }
+}
